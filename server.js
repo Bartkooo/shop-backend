@@ -10,4 +10,9 @@ app.get('/', (req, res) => {
   res.send(items)
 })
 
+app.get('/item/:id', (req,res) => {
+  const item = items.find(item => item.id == req.params.id)
+  res.send(item)
+})
+
 app.listen(4000)
