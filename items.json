@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "title": "title",
-    "price": 50,
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    "title": "FORUM LOW SHOES",
+    "price": 449,
+    "desc": "Wybierz buty, które robią wrażenie. Model adidas Forum zadebiutował w 1984 roku i zyskał ogromną popularność zarówno na koszykarskim parkiecie, jak i muzycznej scenie. Ta wersja miejskich, niskich butów nawiązuje do pełnego energii stylu koszykarskiego z lat 80. za sprawą kultowego designu z krzyżującymi się paskami w kostkach."
   },
   {
     "id": 2,
-    "title": "title",
-    "price": 20,
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    "title": "OZELIA SHOES",
+    "price": 499,
+    "desc": "Być może lata 90. to dla Ciebie odległa historia, ale buty Ozelia są zakorzenione w tej bezkompromisowej, eksperymentalnej erze. Śmiały model inspirowany archiwalnymi butami adidas ma solidną konstrukcję, która sprawia, że nie sposób go nie zauważyć. Gładkie buty mają biegowy charakter, a kiedy Twoje dni nabierają tempa, amortyzacja Adiprene zapewnia stopom wygodę."
   },
   {
     "id": 3,
-    "title": "title",
-    "price": 100,
+    "title": "YEEZY BOOST 380",
+    "price": 999,
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
   },
   {
     "id": 4,
-    "title": "title",
-    "price": 500,
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    "title": "ULTRABOOST 5.0 DNA SHOES",
+    "price": 749,
+    "desc": "Kolekcja adidas x Kris Andrew Small Pride z 2022 roku powstała z inspiracji działaczami Stonewall z powstania w Stonewall w 1969 roku. adidas i Kris Andrew Small wspólnie tworzą kolekcję, która oddaje hołd przeszłości i teraźniejszości społeczności LGBTQIA+ za pomocą kolorowej grafiki z przesłaniem na inkluzywnych i optymistycznych designach. Współpracujemy również z dwoma kluczowymi partnerami adidas, Athlete Ally & Stonewall UK. Czuj się tak dobrze, jak wyglądasz. Te buty do biegania Ultraboost zostały stworzone z myślą o wygodzie i stylu jako dwóch równorzędnych priorytetach. adidas BOOST zapewnia niewiarygodny zwrot energii i natychmiastowy komfort na każdym kroku. Cholewka adidas PRIMEKNIT dopasowuje się do stopy, wspierając ją. Torsion System między piętą a przednią częścią stopy stabilizuje każdy krok, dodając Ci mocy przez cały dzień."
   },
   {
     "id": 5,
-    "title": "title",
-    "price": 9.99,
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    "title": "NMD_R1 PRIMEBLUE SHOES",
+    "price": 649,
+    "desc": "Spakuj torbę, zawiąż buty i ruszaj w drogę. Przygody w mieście wymagają modelu NMD_R1. Nowoczesne buty będące nową odsłoną popularnego modelu biegowego z lat 80. z archiwów adidas mają miękką, elastyczną cholewkę o plecionym designie i zwracającą energię amortyzację Boost, która gwarantuje komfort przez cały dzień. Śmiałe kolory i charakterystyczne wstawki w podeszwie środkowej przyciągają wzrok, więc gdziekolwiek zmierzasz, z pewnością pokażesz się w dobrym stylu."
   },
   {
     "id": 6,
-    "title": "title",
-    "price": 1000,
-    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    "title": "SUPERSTAR SHOES",
+    "price": 449,
+    "desc": "Stworzone pierwotnie w latach 70. na koszykarskie parkiety. Królujące wśród hiphopowców w latach 80. Buty adidas Superstar obecnie stanowią znak rozpoznawczy entuzjastów miejskiego stylu. Znana na całym świecie osłona palców w kształcie muszli spełnia swoją funkcję, zapewniając styl i ochronę. Zupełnie tak samo, jak na koszykarskich parkietach lata temu."
   }
 ]
