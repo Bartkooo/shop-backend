@@ -3,12 +3,26 @@ const bodyParser = require('body-parser')
 const app = express()
 const cors = require('cors')
 const fs = require('fs')
+const path = require('path')
 
 const items = require('./items.json')
 
+const multer = require('multer')
+const storage = multer.diskStorage({
+  destination: (req, file, callback) => {
+    callback(null, 'images')
+  },
+  filename: (req, file, callback) => {
+    console.log(file)
+    callback(null, path.extname(file.originalname))
+  }
+})
+
+const upload = multer({ storage: storage })
+
 app.use(cors())
 
-app.get('/', (req, res) => {
+app.get('/', upload.single('photo'), (req, res) => {
   res.send(items)
 })
 
